@@ -47,7 +47,7 @@ This project implements the eFPE (embedded Format‑Preserving Encryption) algor
 
 ## 🔍 How It Works
 
-1. **Mode Select** (in hardware you could use a button):  
+1. **Mode Select** (in hardware you could use a button (here, it's configured to 0)):  
    - Toggle between **Encrypt** and **Decrypt**.  
 2. **Enter Data** (over UART or keypad):  
    - Must be an **even‑length** decimal string.  
