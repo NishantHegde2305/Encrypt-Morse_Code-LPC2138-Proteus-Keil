@@ -73,7 +73,4 @@ This project implements the eFPE (embedded Format‑Preserving Encryption) algor
 > 16th IEEE ICCCNT 2025.  
 ---
 
-## 🛡️ License
-
-Released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
