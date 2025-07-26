@@ -1,4 +1,4 @@
-# Encrypt‑Morse‑Code on LPC2138  
+# Design of an Enhanced Format Preserving Encryption (eFPE) for Lightweight Embedded devices   
 Lightweight format‑preserving encryption of numeric strings with Morse‑code LED feedback, implemented on an NXP LPC2138 (ARM7) and simulated in Proteus.
 
 This project implements the eFPE (embedded Format‑Preserving Encryption) algorithm from our ICCCNT 2025 paper:
