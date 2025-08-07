@@ -1,7 +1,7 @@
 # Design of an Enhanced Format Preserving Encryption (eFPE) for Lightweight Embedded devices   
 Lightweight format‑preserving encryption of numeric strings with Morse‑code LED feedback, implemented on an NXP LPC2138 (ARM7) and simulated in Proteus.
 
-This project implements the eFPE (embedded Format‑Preserving Encryption) algorithm from our ICCCNT 2025 paper:
+This project implements the eFPE (embedded Format‑Preserving Encryption) algorithm from our ICCCNT 2025 paper presented at IIT Indore:
 > **“eFPE: Design, Implementation, and Evaluation of a Lightweight Format‑Preserving Encryption Algorithm for Embedded Systems,”**  
 > Nishant V H et al., 16th IEEE ICCCNT 2025.  
 ---
